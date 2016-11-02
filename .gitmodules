@@ -1,0 +1,3 @@
+[submodule "Submodule1Folder"]
+	path = Submodule1Folder
+	url = https://github.com/valyushitskys/Submodule1
